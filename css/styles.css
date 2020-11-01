@@ -5,9 +5,9 @@ body{
 }
 
 .watermark {
-    opacity: 0.05;
+    opacity: 0.03;
     color: BLACK;
-    position: absolute;
+    position: center;
     bottom: 0;
     right: 0;
 }
@@ -89,6 +89,3 @@ footer{
       color: #1f3c88;
 }
 
-footer img{
-      background-color: blue;
-}
