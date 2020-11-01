@@ -1,0 +1,43 @@
+body{
+      background-color : #d2f6fc;
+      color: black;
+      font-size: 17px;
+}
+
+header, main, nav, footer{
+      text-align: center;
+}
+
+nav a{
+      padding: 15px;
+      padding-bottom: 4px;
+      font-size: 1.5rem;
+      text-decoration: none; /*remove underline*/
+      color: #213e3b;
+}
+
+nav a:hover{
+      border-bottom: 2px #19d3da solid;
+      font-size: 2rem;
+      transition: .10s; /*transition effect*/
+}
+
+nav .home{
+      color: #3e64ff;
+}
+
+main{
+      display: flex;
+      text-align: left;
+      justify-content: center;
+}
+
+table{
+      margin: 0px auto;
+}
+
+footer{
+      font-size: 12px;
+      color: #1f3c88;
+}
+
