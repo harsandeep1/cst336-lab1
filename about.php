@@ -28,9 +28,9 @@ in html
       <!--This is the navigation bar and it has three link to attach to differnt-->
       <!--html pages.-->
       <nav>
-            <a class="home" href="index.html">Home</a>
-            <a href="about.html">About</a>
-            <a href="contact.html">Contact</a>
+            <a class="home" href="index.php">Home</a>
+            <a href="about.php">About</a>
+            <a href="contact.php">Contact</a>
       </nav>
       <br />
       <br />
@@ -38,7 +38,6 @@ in html
       <!--This is a dive with an id called content-->
       <div id="content">
             <h3>Education</h3>
-            <p>Universities
                   <ol type='I'>
                         <li>CSUMB - BS of Computer Science </li>
                         <ul>
@@ -57,7 +56,6 @@ in html
                         <li>West Valley College - Associates of Computer Science</li>
 
                   </ul>
-            </p>
       <hr />
       <h3>Skills</h3>
             <table>
@@ -83,27 +81,27 @@ in html
       <h3>Work Experience</h3>
             <table border=10px>
                   <tr>
-                    <td>Years</td>
-                        <td>Present</td>
-                        <td>2018 - 2014</td>
-                        <td>2014 - 2012</td>
-                        <td>2012 - 2010</td>
+                    <td id="table-header"><strong>Years</strong></td>
+                        <td id="table-header">Present</td>
+                        <td id="table-header">2018 - 2014</td>
+                        <td id="table-header">2014 - 2012</td>
+                        <td id="table-header">2012 - 2010</td>
                   </tr>
                   <tr>
-                      <td>Places</td>
-                        <td>Arista Networks</td>
-                        <td>Cisco Networks</td>
-                        <td>Vendavo Corporation</td>
-                        <td>Nvidia Corporation</td>
+                      <td id="table-header"><strong>Places</strong></td>
+                        <td class="table-row">Arista Networks</td>
+                        <td class="table-row">Cisco Networks</td>
+                        <td class="table-row">Vendavo Corporation</td>
+                        <td class="table-row">Nvidia Corporation</td>
                   </tr>
             </table>
       
       <hr />  
       <h3>Hobbies</h3>
       <ul>
-            <li>Soccer: I am a FC Barcelona(Spain) fan and I play soccer in the evening. My preferable position is central attacking midfield.</li>
-            <li>Riding Motercycles: I love sports bikes. I love both the Honda and the Yamaha bikes.</li>
-            <li>Travel: I love to travel. I wanted to go Spain(<em>Of Course! <strong>SOCCER</strong></em>), Europe, Central America, and Asia.</li>
+            <li><span class="hobby">Soccer</span>: I am a FC Barcelona(Spain) fan and I play soccer in the evening. My preferable position is central attacking midfield.</li>
+            <li><span class="hobby">Riding Motercycles</span>: I love sports bikes. I love both the Honda and the Yamaha bikes.</li>
+            <li><span class="hobby">Travel</span>: I love to travel. I wanted to go Spain(<em>Of Course! <strong>SOCCER</strong></em>), Europe, Central America, and Asia.</li>
 
       </ul>
               

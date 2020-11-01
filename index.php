@@ -15,6 +15,7 @@ in html
         <meta charset="utf-8" />
         <title>Harsandeep Singh: A developer</title>
         <link rel="stylesheet" href="css/styles.css" type="text/css" />
+        <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap" rel="stylesheet">
     </head>
 <!-- closing head -->
 
@@ -28,9 +29,9 @@ in html
         <!--This is the navigation bar and it has three link to attach to differnt-->
         <!--html pages.-->
         <nav>
-            <a class="home" href="index.html">Home</a>
-            <a href="about.html">About</a>
-            <a href="contact.html">Contact</a>
+            <a class="home" href="index.php">Home</a>
+            <a href="about.php">About</a>
+            <a href="contact.php">Contact</a>
         </nav>
         <br /><br />
         
@@ -65,7 +66,7 @@ in html
             <br /> <br />
             
             <!--This is CSUMB Logo-->
-            <img src="img/CSUMB Logo 540 Bay Blue.png" alt="CSUMB Logo"></img>
+            <img src="img/csumb_logo.png" alt="CSUMB Logo"></img>
         </footer>
         <!-- closing footer -->
         
