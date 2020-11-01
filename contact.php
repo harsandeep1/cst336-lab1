@@ -15,13 +15,13 @@ in html
             <meta charset="utf-8" />
             <title>Harsandeep Singh: A developer</title>
             <link rel="stylesheet" href="css/styles.css" type="text/css" />
+            <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap" rel="stylesheet">
       </head>
 <!-- closing head -->
 
       <!-- This is the body -->
       <!-- This is where we place the content of our website -->
       <body>
-            <img class="watermark" src="img/CSUMB_Watermark.png" alt="Watermakr image"></img>
             <header>
                   <h1>Harsandeep Singh</h1>
             </header>
@@ -57,11 +57,8 @@ in html
             
             <!--This is CSUMB Logo-->
             <img src="img/csumb_logo.png" alt="CSUMB Logo"></img>
-            <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap" rel="stylesheet">
-
       </footer>
       <!-- closing footer -->
-        
       </body>
       <!-- closing body -->
 

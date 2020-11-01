@@ -23,7 +23,6 @@ in html
       <!-- This is the body -->
       <!-- This is where we place the content of our website -->
       <body>
-            <img class="watermark" src="img/CSUMB_Watermark.png" alt="Watermakr image"></img>
             <header>
                   <h1>Harsandeep Singh</h1>
             </header>
@@ -41,19 +40,10 @@ in html
       <!--This is a dive with an id called content-->
       <div id="content">
             <h3>Education</h3>
-                  <ol type='I'>
-                        <li>CSUMB - BS of Computer Science </li>
-                        <ul>
-                              <li>Currently enrolled at this university.</li>
-                              <a href="https://csumb.edu/csonline" target="_blank"><li>Fully Online
-                              Degree program</li></a>
-                        </ul>
+                  <ul>
+                        <a href="https://csumb.edu/csonline" target="_blank"><li>CSUMB - BS of Computer Science</li></a>
                         <li>SFSU - BS of Computer Science</li>
-                        <ul>
-                              <li>Drive on highway280 was killer.</li>
-                              <li>Commute was hard because of traffic.</li>
-                        </ul>
-                  </ol>
+                  </ul>
                   <ul>
                         <li>Mission College - Associates of Computer Science</li>
                         <li>West Valley College - Associates of Computer Science</li>
@@ -61,7 +51,7 @@ in html
                   </ul>
       <hr />
       <h3>Skills</h3>
-            <table>
+            <table  border=10px>
                   <tr id="table-header">
                         <td><strong>Programming Language</strong></td>
                         <td><strong>Years Experience</strong></td>
@@ -128,7 +118,6 @@ in html
             <img src="img/csumb_logo.png" alt="CSUMB Logo"></img>
       </footer>
       <!-- closing footer -->
-        
       </body>
       <!-- closing body -->
 
