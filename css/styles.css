@@ -33,6 +33,14 @@ nav .home{
       color: #3e64ff;
 }
 
+nav .about{
+      color: #3e64ff;
+}
+
+nav .contact{
+      color: #3e64ff;
+}
+
 main{
       display: flex;
       text-align: left;

@@ -30,8 +30,8 @@ in html
       <!--This is the navigation bar and it has three link to attach to differnt-->
       <!--html pages.-->
       <nav>
-            <a class="home" href="index.php">Home</a>
-            <a href="about.php">About</a>
+            <a href="index.php">Home</a>
+            <a class="about" href="about.php">About</a>
             <a href="contact.php">Contact</a>
       </nav>
       <br />
