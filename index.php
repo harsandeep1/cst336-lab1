@@ -22,6 +22,7 @@ in html
     <!-- This is the body -->
     <!-- This is where we place the content of our website -->
     <body>
+        <img class="watermark" src="img/CSUMB_Watermark.png" alt="Watermakr image"></img>
         <header>
             <h1>Harsandeep Singh</h1>
         </header>

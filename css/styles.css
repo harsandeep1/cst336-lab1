@@ -4,6 +4,14 @@ body{
       font-size: 17px;
 }
 
+.watermark {
+    opacity: 0.05;
+    color: BLACK;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
 h1{
       font-family: 'Black Ops One', cursive;
       font-size: 3rem;
